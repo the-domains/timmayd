@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[timmayd]]></title>
         <description><![CDATA[timmayd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/timmayd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 03:17:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 03:28:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/timmayd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Tranquility.</p>]]></description>
+            <link>https://thegrid.ai/timmayd/65623ac9-6ca0-4bff-8817-83ad1ac70641/index.html</link>
+            <guid isPermaLink="false">65623ac9-6ca0-4bff-8817-83ad1ac70641</guid>
+            <pubDate>Thu, 10 Dec 2015 03:28:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Post 1]]></title>
             <description><![CDATA[<article><h1>Post 1</h1><p>Oh hay. Hey there. We are go for beta.</p></article>]]></description>
-            <link>undefinedpost-1/index.html</link>
+            <link>https://thegrid.ai/timmayd/post-1/index.html</link>
             <guid isPermaLink="false">4699746e-1a56-45dc-b3c6-6b1ba9b61320</guid>
             <pubDate>Thu, 10 Dec 2015 03:17:42 GMT</pubDate>
         </item>
